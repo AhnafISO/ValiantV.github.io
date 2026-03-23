@@ -87,7 +87,7 @@ Built a malware analysis sandbox using VMware, Wireshark, Regshot, NetworkMiner,
 
 ## Additional Experience
 
-###WorldSkills UK Championship 2025 – National Qualifier & Skilled Champion 
+### WorldSkills UK Championship 2025 – National Qualifier & Skilled Champion 
 Advanced to the national qualifier of the WorldSkills UK Championship, placing among the Top 50 competitors in Linux Administration, 
 Network Forensics, OSINT and Capture The Flag (CTF) challenges. Recently appointed as a Skilled Champion supporting upcoming digital and cybersecurity initiatives.
 
@@ -99,7 +99,7 @@ Completed multiple hands-on labs, including:
 - **Malware Analysis:** Analyzed malware samples, identified malicious patterns, and documented findings.  
 - **Network Forensics:** Analyzed network traffic to detect security breaches and recommend improvements.  
 
-###Deloitte Australia Cyber Virtual Internship on Forage - July 2025
+### Deloitte Australia Cyber Virtual Internship on Forage - July 2025
 Analyzed web activity logs to identify suspicious behavior and supported a simulated client during a cybersecurity breach.
 Developed risk assessment,log analysis, and incident response skills aligned with Deloitte’s consulting approach.
 
