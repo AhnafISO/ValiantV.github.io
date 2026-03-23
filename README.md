@@ -4,7 +4,6 @@ ValiantV.github.io
 **Cybersecurity Analyst**  
 London  
 **Email:** ahnafhssn@gmail.com  
-**Phone:** 07464682624  
 [**Website**](http://valiant24.co.uk) 
 
 ---
@@ -40,6 +39,7 @@ University of Wales Trinity Saint David
 - **LetsDefend:** Practical Cybersecurity Training  
   Hands-on labs in Incident Response, Threat Hunting, Malware Analysis, and Network Forensics  
 - **Tryhackme**
+  Achieved Top 2% ranking on TryHackMe platform, specializing in Blue Teaming skills with practical experience in Red Teaming tools and techniques for comprehensive cybersecurity defense.
 - **Worldskills Championship UK**
 ---
 
@@ -49,15 +49,21 @@ SIEM (Wazuh), IDS/IPS (Snort), Firewall (pfSense), Network Scanning (Nmap),
 Traffic Analysis (Wireshark), Malware Analysis (Sysmon, Procmon), Vulnerability Assessment, 
 Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Windows Server
 
-### Tools & Platforms
-- Wireshark, AnyRun, SIEM, Linux, Metasploit, AWS 
-
 ### Soft Skills
 - Problem-solving, Analytical Thinking, Teamwork  
 
 ---
 
 ## Practical Projects
+
+###Static Website Hosting on AWS (S3 + Route 53)
+Designed and deployed a static website using Amazon S3 for scalable object storage and configured DNS routing with Route 53 to enable custom domain access; 
+implemented bucket policies for public access and ensured reliable global availability.
+
+###SOC home lab Wazuh / PfSense / Snort (testing)
+Built a home SOC using Wazuh (SIEM), pfSense (firewall), and Snort (IDS/IPS). 
+Simulated WAN attacks (Nmap, Hydra) to test detection and response capabilities, enhancing understanding of enterprise monitoring, network defence, and system resilience.
+
 
 ### Network Security Assessment with NMAP
 Demonstrated network reconnaissance and exploitation using NMAP, showcasing live device detection, port discovery, and vulnerability exploitation in a simulated environment with Kali Linux and Metasploitable 2.
