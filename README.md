@@ -1,7 +1,7 @@
 ValiantV.github.io
 # Ahnaf Hossain
 
-**Aspiring Cyber Security Professional**  
+**Cybersecurity Analyst**  
 London  
 **Email:** ahnafhssn@gmail.com  
 **Phone:** 07464682624  
@@ -15,18 +15,25 @@ London
 ---
 
 ## Profile
-Aspiring cybersecurity professional with hands-on experience in incident response, malware analysis, and network forensics. Skilled in using tools like Wireshark, Metasploit, and SIEM platforms to identify vulnerabilities and secure network environments. Passionate about blue team operations and dedicated to safeguarding digital assets through proactive threat detection and mitigation. Eager to leverage practical training from labs, internships, and certifications to contribute as a SOC Analyst. Equipped with strong analytical thinking, problem-solving skills, and a collaborative mindset.
-
+Cybersecurity undergraduate with hands-on experience in network defence, vulnerability assessment, and SOC operations. Skilled in using SIEM and IDS tools such as Wazuh, Snort, and pfSense for detection and monitoring. Demonstrated analytical and technical skills through cybersecurity simulations, competitions, and lab environments, with growing knowledge of enterprise security principles.
 ---
 
 ## Education
-**University of Wales Trinity Saint David**  
-**Bachelor of Applied Computing (BSc)**  
-_Feb 2023 – Feb 2026 (Expected)_
+
+**MSc Information Security - Expected 2027**
+University College London (UCL)
+
+
+**BSc Applied Computing – First Class Honours**
+University of Wales Trinity Saint David
+
+**CertHE Computing Skills for the Workplace – Distinction**
+University of Wales Trinity Saint David
 
 ---
 
 ## Certifications & Training
+- **AWS Certified Cloud Practioner**
 - **ISC2:** Certified in Cybersecurity  
 - **Microsoft Security Fundamentals (MTA: Security Fundamentals)**  
 - **CompTIA Cysa+** (In progress)  
@@ -36,13 +43,13 @@ _Feb 2023 – Feb 2026 (Expected)_
 ---
 
 ## Skills
-
 ### Cybersecurity Skills
-- Brute Force, Incident Response, Threat Hunting, Malware Analysis  
-- Network Protocols, Network Forensics  
+SIEM (Wazuh), IDS/IPS (Snort), Firewall (pfSense), Network Scanning (Nmap), 
+Traffic Analysis (Wireshark), Malware Analysis (Sysmon, Procmon), Vulnerability Assessment, 
+Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Windows Server
 
 ### Tools & Platforms
-- Wireshark, AnyRun, SIEM, Linux, Metasploit  
+- Wireshark, AnyRun, SIEM, Linux, Metasploit, AWS 
 
 ### Soft Skills
 - Problem-solving, Analytical Thinking, Teamwork  
@@ -73,12 +80,22 @@ Built a malware analysis sandbox using VMware, Wireshark, Regshot, NetworkMiner,
 
 ## Additional Experience
 
+###WorldSkills UK Championship 2025 – National Qualifier & Skilled Champion 
+Advanced to the national qualifier of the WorldSkills UK Championship, placing among the Top 50 competitors in Linux Administration, 
+Network Forensics, OSINT and Capture The Flag (CTF) challenges. Recently appointed as a Skilled Champion supporting upcoming digital and cybersecurity initiatives.
+
+
 ### LetsDefend Platform
 Completed multiple hands-on labs, including:  
 - **Incident Response:** Handled simulated cyber incidents, analyzing attack vectors and creating reports for remediation.  
 - **Threat Hunting:** Used SIEM tools to detect and mitigate potential threats within a virtual environment.  
 - **Malware Analysis:** Analyzed malware samples, identified malicious patterns, and documented findings.  
 - **Network Forensics:** Analyzed network traffic to detect security breaches and recommend improvements.  
+
+###Deloitte Australia Cyber Virtual Internship on Forage - July 2025
+Analyzed web activity logs to identify suspicious behavior and supported a simulated client during a cybersecurity breach.
+Developed risk assessment,log analysis, and incident response skills aligned with Deloitte’s consulting approach.
+
 
 ### Mastercard Cybersecurity Virtual Experience Program on Forage (November 2024)
 - Completed a job simulation as an analyst on Mastercard’s Security Awareness Team.  
