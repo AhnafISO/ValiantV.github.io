@@ -1,6 +1,6 @@
 ValiantV.github.io
-# Ahnaf Hossain    ###Valiant
-
+# Ahnaf Hossain
+_aka Valiant_
 
 **Cybersecurity Analyst**  
 London  
