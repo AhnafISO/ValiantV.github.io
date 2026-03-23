@@ -5,14 +5,12 @@ ValiantV.github.io
 London  
 **Email:** ahnafhssn@gmail.com  
 **Phone:** 07464682624  
-[**LinkedIn**](https://linkedin.com/in/ahnaf-h-3a10a81ab) | [**Projects Portfolio**](https://blueateam.wixsite.com/cybersec)
+[**Website**](http://www.valiant24.co.uk) 
 
 ---
 
 ## Languages
 - **Italian:** Fluent  
-- **Bangali:** Intermediate  
-- **Hindi:** Beginner  
 
 ---
 
