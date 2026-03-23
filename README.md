@@ -4,7 +4,7 @@ ValiantV.github.io
 **Cybersecurity Analyst**  
 London  
 **Email:** ahnafhssn@gmail.com  
-[**Website**](http://valiant24.co.uk) | [**Github Repositories**]([http://valiant24.co.uk](https://github.com/AhnafISO?tab=repositories) | [**Notion Projects and Writeups**]([http://valiant24.co.uk](https://fallen127.notion.site/Valiant-s-Garage-32530840dc768007b195c8625f8a948d)
+[**Website**](http://valiant24.co.uk) | [**Github Repositories**](https://github.com/AhnafISO?tab=repositories) | [**Notion Projects and Writeups**](https://fallen127.notion.site/Valiant-s-Garage-32530840dc768007b195c8625f8a948d)
 
 ---
 
