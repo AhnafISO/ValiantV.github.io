@@ -39,7 +39,8 @@ University of Wales Trinity Saint David
 - **CompTIA Cysa+** (In progress)  
 - **LetsDefend:** Practical Cybersecurity Training  
   Hands-on labs in Incident Response, Threat Hunting, Malware Analysis, and Network Forensics  
-
+- **Tryhackme**
+- **Worldskills Championship UK**
 ---
 
 ## Skills
