@@ -56,11 +56,11 @@ Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Wind
 
 ## Practical Projects
 
-###Static Website Hosting on AWS (S3 + Route 53)
+### Static Website Hosting on AWS (S3 + Route 53)
 Designed and deployed a static website using Amazon S3 for scalable object storage and configured DNS routing with Route 53 to enable custom domain access; 
 implemented bucket policies for public access and ensured reliable global availability.
 
-###SOC home lab Wazuh / PfSense / Snort (testing)
+### SOC home lab Wazuh / PfSense / Snort (testing)
 Built a home SOC using Wazuh (SIEM), pfSense (firewall), and Snort (IDS/IPS). 
 Simulated WAN attacks (Nmap, Hydra) to test detection and response capabilities, enhancing understanding of enterprise monitoring, network defence, and system resilience.
 
