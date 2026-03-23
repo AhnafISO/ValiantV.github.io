@@ -5,7 +5,7 @@ ValiantV.github.io
 London  
 **Email:** ahnafhssn@gmail.com  
 **Phone:** 07464682624  
-[**Website**](http://www.valiant24.co.uk) 
+[**Website**](http://valiant24.co.uk) 
 
 ---
 
