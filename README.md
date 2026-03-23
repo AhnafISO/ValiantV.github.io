@@ -104,7 +104,7 @@ Analyzed web activity logs to identify suspicious behavior and supported a simul
 Developed risk assessment,log analysis, and incident response skills aligned with Deloitte’s consulting approach.
 
 
-### Mastercard Cybersecurity Virtual Experience Program on Forage (November 2024)
+### Mastercard Cybersecurity Virtual Internship Program on Forage (November 2024)
 - Completed a job simulation as an analyst on Mastercard’s Security Awareness Team.  
 - Helped identify and report security threats such as phishing.  
 - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.  
