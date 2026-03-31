@@ -57,9 +57,8 @@ Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Wind
 
 ## Practical Projects
 
-### Static Website Hosting on AWS (S3 + Route 53)
-Designed and deployed a static website using Amazon S3 for scalable object storage and configured DNS routing with Route 53 to enable custom domain access; 
-implemented bucket policies for public access and ensured reliable global availability.
+### Secure Static Website Hosting on AWS (S3 + CloudFront + Route 53)
+Designed and deployed a static website using Amazon S3 for scalable object storage, configured DNS routing with Route 53 for custom domain access, and implemented HTTPS using CloudFront and AWS Certificate Manager. Integrated a global CDN for improved performance and resolved real-world caching issues through CloudFront invalidations and browser cache debugging.
 
 ### SOC home lab Wazuh / PfSense / Snort (testing)
 Built a home SOC using Wazuh (SIEM), pfSense (firewall), and Snort (IDS/IPS). 
