@@ -14,7 +14,7 @@ London
 
 ---
 
-## Profile
+### Profile
 Cybersecurity undergraduate with hands-on experience in network defence, vulnerability assessment, and SOC operations. Skilled in using SIEM and IDS tools such as Wazuh, Snort, and pfSense for detection and monitoring. Demonstrated analytical and technical skills through cybersecurity simulations, competitions, and lab environments, with growing knowledge of enterprise security principles.
 ---
 
@@ -71,16 +71,13 @@ Demonstrated network reconnaissance and exploitation using NMAP, showcasing live
 ### Network Traffic Analysis with Wireshark
 Conducted in-depth analysis of network traffic to identify suspicious activities, utilizing packet capture to investigate anomalies.
 
-### Dynamic Malware Analysis with AnyRun
-Performed real-time analysis of malware samples to understand malicious behaviour and indicators of compromise (IOC).
-
 ### Development of Web Application for Banking Scenario
 Designed and developed a web application using MySQL, PHP, HTML, CSS, and JavaScript with Role-Based Access Control (RBAC) for a banking scenario. The application allowed users to log in and perform transactions, while admins could manage CRUD (Create, Read, Update, Delete) operations.  
 
 ### Library Management System (Python)
 Developed a Python-based library system with user authentication, book management, and input validation. Implemented secure login/registration and a nested dictionary to store book details. Demonstrated proficiency in Python scripting, data handling, and secure system design.
 
-### Malware Analysis Sandbox (Kali Linux)
+### Malware Analysis Sandbox
 Built a malware analysis sandbox using VMware, Wireshark, Regshot, NetworkMiner, Fiddler, and Sysmon. Conducted dynamic analysis of malware samples to identify malicious behaviour and Indicators of Compromise (IOCs). Demonstrated hands-on experience with cybersecurity tools and threat analysis techniques.
 
 ---
