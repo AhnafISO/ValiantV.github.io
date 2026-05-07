@@ -5,7 +5,7 @@ _aka Valiant_
 **Cybersecurity Analyst**  
 London  
 **Email:** ahnafhssn@gmail.com  
-[**Website**](http://valiant24.co.uk) | [**Github Repositories**](https://github.com/AhnafISO?tab=repositories) | [**Notion Projects and Writeups**](https://fallen127.notion.site/Valiant-s-Garage-32530840dc768007b195c8625f8a948d)
+[**Website**](http://valiant24.co.uk) | [**Github Repositories**](https://github.com/AhnafISO?tab=repositories) | [**Notion Projects and Writeups**](https://fallen127.notion.site/Valiant-s-Garage-32530840dc768007b195c8625f8a948d) | [**Credly**](https://www.credly.com/users/ahnaf-hossain)
 
 ---
 
