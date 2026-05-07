@@ -58,6 +58,9 @@ Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Wind
 
 ## Practical Projects
 
+### [Cloud-Based Scalable Web Application on AWS](https://www.notion.so/fallen127/Cloud-Based-Scalable-Web-Application-on-AWS-34e30840dc76806eabedc77c9b943fac?source=copy_link)
+This project demonstrates the implementation of a scalable and fault-tolerant cloud infrastructure on AWS using EC2, Auto Scaling Groups, and an Application Load Balancer. The system was designed to maintain performance and availability under varying workloads through automated traffic distribution and dynamic resource scaling.
+
 ### [Secure Static Website Hosting on AWS with HTTPS using CloudFront + ACM](https://fallen127.notion.site/Secure-Static-Website-Hosting-on-AWS-with-HTTPS-using-CloudFront-ACM-32330840dc7680d6b862e6dc904baf64?source=copy_link)
 Designed and deployed a static website using Amazon S3 for scalable object storage, configured DNS routing with Route 53 for custom domain access, and implemented HTTPS using CloudFront and AWS Certificate Manager. Integrated a global CDN for improved performance and resolved real-world caching issues through CloudFront invalidations and browser cache debugging.
 
@@ -75,7 +78,7 @@ Conducted in-depth analysis of network traffic to identify suspicious activities
 ### Development of Web Application for Banking Scenario
 Designed and developed a web application using MySQL, PHP, HTML, CSS, and JavaScript with Role-Based Access Control (RBAC) for a banking scenario. The application allowed users to log in and perform transactions, while admins could manage CRUD (Create, Read, Update, Delete) operations.  
 
-### Library Management System (Python)
+### [Library Management System (Python)](https://github.com/AhnafISO/library.py/blob/main/library.py)
 Developed a Python-based library system with user authentication, book management, and input validation. Implemented secure login/registration and a nested dictionary to store book details. Demonstrated proficiency in Python scripting, data handling, and secure system design.
 
 ### Malware Analysis Sandbox
