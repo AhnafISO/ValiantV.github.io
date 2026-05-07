@@ -10,7 +10,8 @@ London
 ---
 
 ## Languages
-- **Italian:** Fluent  
+- **Italian** Fluent
+- **English** Fluent
 
 ---
 
