@@ -64,10 +64,8 @@ This project demonstrates the implementation of a scalable and fault-tolerant cl
 ### [Secure Static Website Hosting on AWS with HTTPS using CloudFront + ACM](https://fallen127.notion.site/Secure-Static-Website-Hosting-on-AWS-with-HTTPS-using-CloudFront-ACM-32330840dc7680d6b862e6dc904baf64?source=copy_link)
 Designed and deployed a static website using Amazon S3 for scalable object storage, configured DNS routing with Route 53 for custom domain access, and implemented HTTPS using CloudFront and AWS Certificate Manager. Integrated a global CDN for improved performance and resolved real-world caching issues through CloudFront invalidations and browser cache debugging.
 
-### SOC home lab Wazuh / PfSense / Snort
-Built a home SOC using Wazuh (SIEM), pfSense (firewall), and Snort (IDS/IPS). 
-Simulated WAN attacks (Nmap, Hydra) to test detection and response capabilities, enhancing understanding of enterprise monitoring, network defence, and system resilience.
-
+### [OpenSOC-Detection-Lab](https://fallen127.notion.site/Open_SOC-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
+OpenSOC is a self-hosted cybersecurity homelab designed to simulate and detect real-world attacks using open-source security tools. The environment integrates pfSense, Snort IDS, Wazuh SIEM, and Proxmox to provide both network-based and host-based monitoring within a segmented virtual network.
 
 ### [Network Reconnaissance and Exploitation](https://fallen127.notion.site/Network-Reconnaissance-and-Exploitation-32830840dc76808da567ef32fdfea373?source=copy_link)
 Demonstrated network reconnaissance and exploitation using NMAP, showcasing live device detection, port discovery, and vulnerability exploitation in a simulated environment with Kali Linux and Metasploitable 2.
