@@ -35,9 +35,9 @@ University of Wales Trinity Saint David
 
 ## Certifications & Training
 - **AWS Certified Cloud Practioner**
+- **AWS Solution Architect Associate - In progress**
 - **ISC2:** Certified in Cybersecurity  
 - **Microsoft Security Fundamentals (MTA: Security Fundamentals)**  
-- **CompTIA Cysa+** (In progress)  
 - **LetsDefend:** Practical Cybersecurity Training  
   Hands-on labs in Incident Response, Threat Hunting, Malware Analysis, and Network Forensics  
 - **Tryhackme**
@@ -58,7 +58,7 @@ Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Wind
 
 ## Practical Projects
 
-### [Virtualized SOC Environment for Attack Detection and Monitoring]([https://app.notion.com/p/fallen127/Virtualized-SOC-Environment-for-Attack-Detection-and-Monitoring-35a30840dc7680cc8c16d66b0e710273?source=copy_link)) 
+### [Virtualized SOC Environment for Attack Detection and Monitoring]([https://app.notion.com/p/fallen127/Virtualized-SOC-Environment-for-Attack-Detection-and-Monitoring-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
 OpenSOC is a self-hosted cybersecurity homelab designed to simulate and detect real-world attacks using open-source security tools. The environment integrates pfSense, Snort IDS, Wazuh SIEM, and Proxmox to provide both network-based and host-based monitoring within a segmented virtual network.
 
 
