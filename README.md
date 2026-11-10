@@ -16,7 +16,7 @@ London
 ---
 
 ### Profile
-Cybersecurity undergraduate with hands-on experience in network defence, vulnerability assessment, and SOC operations. Skilled in using SIEM and IDS tools such as Wazuh, Snort, and pfSense for detection and monitoring. Demonstrated analytical and technical skills through cybersecurity simulations, competitions, and lab environments, with growing knowledge of enterprise security principles.
+UCL MSc Information Security student and first-class Applied Computing graduate with hands-on experience deploying a virtualized security operations lab, validating network and endpoint detection, analysing malware, and configuring AWS cloud infrastructure. Exploring CubeSat ground-segment cybersecurity and satellite ground-station systems, with an interest in graduate roles in security engineering and the space sector.
 ---
 
 ## Education
