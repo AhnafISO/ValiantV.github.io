@@ -58,11 +58,11 @@ Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Wind
 
 ## Practical Projects
 
-### [Virtualized SOC Environment for Attack Detection and Monitoring]([https://app.notion.com/p/fallen127/Virtualized-SOC-Environment-for-Attack-Detection-and-Monitoring-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
+### [Virtualized SOC Environment for Attack Detection and Monitoring](https://app.notion.com/p/fallen127/Virtualized-SOC-Environment-for-Attack-Detection-and-Monitoring-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
 OpenSOC is a self-hosted cybersecurity homelab designed to simulate and detect real-world attacks using open-source security tools. The environment integrates pfSense, Snort IDS, Wazuh SIEM, and Proxmox to provide both network-based and host-based monitoring within a segmented virtual network.
 
 
-### [Infrastructure Log Monitoring & Anomaly Detection - ELK Mini-Lab ](https://fallen127.notion.site/Open_SOC-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
+### [Infrastructure Log Monitoring & Anomaly Detection - ELK Mini-Lab ](https://app.notion.com/p/fallen127/ELK-Infrastructure-Monitoring-40c30840dc768372955981c136714378?source=copy_link) 
 •  Deployed a containerised ELK stack to ingest and analyse 470 synthetic infrastructure and authentication events across three simulated hosts.
 •  Created Kibana visualisations and used KQL/ES|QL queries to identify high-CPU activity and concentrated failed-authentication events.
 
