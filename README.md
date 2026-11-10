@@ -58,14 +58,19 @@ Threat Detection, Python, MySQL, Kali Linux, Metasploit, Burp Suite, Linux, Wind
 
 ## Practical Projects
 
+### [Virtualized SOC Environment for Attack Detection and Monitoring]([https://fallen127.notion.site/Open_SOC-35a30840dc7680cc8c16d66b0e710273?source=copy_link](https://fallen127.notion.site/ELK-Infrastructure-Monitoring-40c30840dc768372955981c136714378?source=copy_link)) 
+OpenSOC is a self-hosted cybersecurity homelab designed to simulate and detect real-world attacks using open-source security tools. The environment integrates pfSense, Snort IDS, Wazuh SIEM, and Proxmox to provide both network-based and host-based monitoring within a segmented virtual network.
+
+
+### [Infrastructure Log Monitoring & Anomaly Detection - ELK Mini-Lab ](https://fallen127.notion.site/Open_SOC-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
+•  Deployed a containerised ELK stack to ingest and analyse 470 synthetic infrastructure and authentication events across three simulated hosts.
+•  Created Kibana visualisations and used KQL/ES|QL queries to identify high-CPU activity and concentrated failed-authentication events.
+
 ### [Cloud-Based Scalable Web Application on AWS](https://www.notion.so/fallen127/Cloud-Based-Scalable-Web-Application-on-AWS-34e30840dc76806eabedc77c9b943fac?source=copy_link)
 This project demonstrates the implementation of a scalable and fault-tolerant cloud infrastructure on AWS using EC2, Auto Scaling Groups, and an Application Load Balancer. The system was designed to maintain performance and availability under varying workloads through automated traffic distribution and dynamic resource scaling.
 
 ### [Secure Static Website Hosting on AWS with HTTPS using CloudFront + ACM](https://fallen127.notion.site/Secure-Static-Website-Hosting-on-AWS-with-HTTPS-using-CloudFront-ACM-32330840dc7680d6b862e6dc904baf64?source=copy_link)
 Designed and deployed a static website using Amazon S3 for scalable object storage, configured DNS routing with Route 53 for custom domain access, and implemented HTTPS using CloudFront and AWS Certificate Manager. Integrated a global CDN for improved performance and resolved real-world caching issues through CloudFront invalidations and browser cache debugging.
-
-### [Virtualized SOC Environment for Attack Detection and Monitoring](https://fallen127.notion.site/Open_SOC-35a30840dc7680cc8c16d66b0e710273?source=copy_link) 
-OpenSOC is a self-hosted cybersecurity homelab designed to simulate and detect real-world attacks using open-source security tools. The environment integrates pfSense, Snort IDS, Wazuh SIEM, and Proxmox to provide both network-based and host-based monitoring within a segmented virtual network.
 
 ### [Network Reconnaissance and Exploitation](https://fallen127.notion.site/Network-Reconnaissance-and-Exploitation-32830840dc76808da567ef32fdfea373?source=copy_link)
 Demonstrated network reconnaissance and exploitation using NMAP, showcasing live device detection, port discovery, and vulnerability exploitation in a simulated environment with Kali Linux and Metasploitable 2.
